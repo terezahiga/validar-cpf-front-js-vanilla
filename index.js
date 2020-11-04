@@ -1,4 +1,4 @@
-//const URL="https://java-api-spring-bot.herokuapp.com/validacpf?cpf="
+//ccccconst URL="https://java-api-spring-bot.herokuapp.com/validacpf?cpf="
 const URL="https://vanilla-cpf-tt.herokuapp.com/validacpf?cpf="
 function validar(){
 
