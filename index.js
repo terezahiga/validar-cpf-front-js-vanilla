@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 //ccccconst URL="https://java-api-spring-bot.herokuapp.com/validacpf?cpf="
 const URL="https://vanilla-cpf-tt.herokuapp.com/validacpf?cpf="
+=======
+const URL="https://validacpfjavaboot.herokuapp.com/validacpf?cpf="
+>>>>>>> ba549bf7790710fc65f196aa62281ee3509cac73
 function validar(){
 
 	var txtCPF = document.getElementById("txtCpf").value;
